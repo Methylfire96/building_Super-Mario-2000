@@ -7,5 +7,7 @@ THIS IS A CLONE OF THE FAMOUS SUPER MARIO WORLD GAME, still under construction.
 KEYS FOR MOVEMENT:
 
 SPACE - jump
+
 LEFT BUTTON - left
+
 RIGHT BUTTON - right
